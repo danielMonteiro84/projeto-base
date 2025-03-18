@@ -1,0 +1,24 @@
+{
+  "name": "projeto-base",
+  "version": "1.0.0",
+  "description": "Projeto base para criação de sites",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielMonteiro84/projeto-base.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielMonteiro84/projeto-base/issues"
+  },
+  "homepage": "https://github.com/danielMonteiro84/projeto-base#readme",
+  "dependencies": {
+    "next": "^15.2.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
